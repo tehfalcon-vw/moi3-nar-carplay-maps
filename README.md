@@ -14,7 +14,7 @@ MOI3 cluster-video network.
 
 This first beta supports **only**:
 
-- LG MOI3 / MIB3 for MQB (not MIB2, MQB Evo, MEB, Joynext, or Preh)
+- LG MOI3 / MIB3 for MQB 
 - `MOI3_EU_SE_R8410L`, MU `0841`
 - part number `575919360B`
 - CarPlay plug-in `320.17.4`
